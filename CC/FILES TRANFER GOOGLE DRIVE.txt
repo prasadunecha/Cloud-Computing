@@ -1,0 +1,7 @@
+FILES TRANFER GOOGLE DRIVE:
+
+https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
+
+alternate->
+
+https://app.vagrantup.com/bento/boxes/ubuntu-18.04
