@@ -1,5 +1,14 @@
 FILES TRANFER GOOGLE DRIVE:
 
+do natnetwork
+ls
+touch
+nano
+cat
+ifconfig
+scp file.txt vagrant@10.0.2.4:/home/vagrant
+
+
 [Google drive](https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt)
 
 alternate->
